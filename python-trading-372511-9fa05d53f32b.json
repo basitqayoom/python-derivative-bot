@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-trading-372511",
+  "private_key_id": "9fa05d53f32b71ed7da2f39b09e137d5609f492b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDK1PVpKyQUHMxi\n9iWrqS+2cwi+7PzZA1rfxYKV1slXgs8Lz0zQFhbftX/YpRSBMTYLU4Q3C3FIZ62Q\nz2J5Cpt2WbKyZI0Rju/fB2l9AHWJl7+0LMIuQP2koCFM5z2KK4UhZcToRE4TqeSP\nTkb0gw1ArKyi8u95Sv5VW5DrGfy0AIIXgqoLumC938rfaKEfFl554hj+dNXFHmOR\ntQrhrydo9LlUDamj5C7uwwQ5x1h0ulhxZRkGUMEjSpG+p9oW+S0vLah5E6nmmYh2\nIPb8D+0k5EaynE3iVNh5RKpImWZFAfuN4+TZwssWMWZDL1ch1UPuyggC4ytWk9sL\nbI9hwb21AgMBAAECggEAHFl3k6N7/3Om/Y355exXxuB9MHJfRNW7NdudTOQgcCLQ\nXY4z5kGwIMR1ggpQu13td9fMewUWaFBVahASa2iYIgqXd2emb/XSgRHAJMCTrQ+Q\ns9YtrdlXmlLnVKBdcZpzmR9oTi592zG7yGvgbvyCNa/s0TmzTvi0Y6nQr4uKTn4j\n6+zeSpl2Grbpo9UNT1U5QgzX6ZdY7JuA351OWBboyqtGeUkOsPyEo/37C1vCUTFc\nnY+LPSG7/+yPfG2fyNjgRMVP0aFoq68ddAX5n1Ed8jNoMZgb5Rj3Aln043HWEktj\nadVkrtXigM7iGftVcwuNHbljllN1TrjQnZpbEqkeYQKBgQDuxP4tQBrNsf01jIVe\nLizFyGI6qVbXeEtiYUPx0waeiiveD+RSpA1HYND0UF88LxxYCYM65PGQcehEwo+U\n2NYwBGMTvW6JZObQo9v9JfIbyeQGTUSeW/bTCzl7YZl3yv/7zAfyTI5GurqhpS+7\nS1kgm9JwfdWg62SKIyoaxSQSbwKBgQDZeA6ZNH1YzHi1OBg33PFnv9yZg2tIMd7s\nwZi6ji0X6vfGyv5puRkmlwoDIVXXfocItVk8zEWrnbF2/YRdp982eDfIoh9cge18\n7pGBoCgt0z/nt9Xa+kUWxsc8Y8sfxcLKLO6Lz1A0INjWs/snLIkZ5ebJYt8obeuW\n7qkPab70GwKBgQCYDV0sZeFr0ohEfKtF8bPTdCuR3dsOtm2TRgulyVQyzBzpekdV\nlWFbbj1DCJfNVNcA/XXToI5xBQj8GMak7H1h8LlDjeQBnP8cKO1kRbDrn2MV3Ejx\na/FALqq5dsrrrZvctu7sj3IferR1UiOWa4JjsLePqaLMqnrJOWGL0LWLAwKBgBRS\nL6sJSJ0/nhfxAfJWZwh22TpPGXtJjbc57/eeyX/uqPCej195uGvuuTTJrKfSXvPl\nXk1cGTaMKcUgs3m88hK48R2CaMPQMEz4Tgh62sZNcy9H8mff8wzJzlxKRvTVGfqi\ncDgIS0pTt294qgNjGfydiw9OeePhQZ589rdF/l35AoGBAI3pOJa7PIn2wcrvdQ5l\neGf6bZMO0lBNo31HUwrOZVuoM7wB7ttAB0ZvfMDtB4Unw9Q9RtYuuUYUpqezIdoh\nCiAXDrcqEwHeMZWPCA2T1Mt0edvZJLCmxVJ5BYCWyesZNTtCQfOrrYJUSJvrlWWE\nl0wEz2MjeSlpUn7kuZUUsfF8\n-----END PRIVATE KEY-----\n",
+  "client_email": "basitqayoom@python-trading-372511.iam.gserviceaccount.com",
+  "client_id": "103236753984814514794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/basitqayoom%40python-trading-372511.iam.gserviceaccount.com"
+}
