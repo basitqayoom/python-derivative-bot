@@ -1,0 +1,3 @@
+•	Developed and deployed a Python-based trading bot on Heroku that utilizes WebSocket technology to fetch price data and perform automatic trades on the Binance trading exchange. Implemented a series of successful dummy trades (100) and recorded data using the Google Spreadsheet API. 
+•	It uses advanced price action analysis and Binance Exchange API to make informed decisions about buying and selling assets (including derivatives) across various markets, including crypto, forex, and stock exchanges (NASDAQ, NSE, BSE). Integrated the bot with Telegram and Twitter APIs to broadcast signals to users.
+•	It is more reliable and efficient for bot-trading compared to the previous version which was programmed in NodeJS.
